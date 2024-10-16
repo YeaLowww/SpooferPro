@@ -8,19 +8,19 @@ This guide provides step-by-step instructions for installing and using Sideloadl
 ### 1. Install iTunes and iCloud
 Download and install **iTunes** and **iCloud** from the official Apple website (not from the Microsoft Store).
 
-- [Download iTunes 64-bit](#https://www.apple.com/itunes/download/win64)
-- [Download iTunes 32-bit](#https://www.apple.com/itunes/download/win32)
-- [Download iCloud 32/64-bit](#https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe)
+- [Download iTunes 64-bit](https://www.apple.com/itunes/download/win64)
+- [Download iTunes 32-bit](https://www.apple.com/itunes/download/win32)
+- [Download iCloud 32/64-bit](https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe)
 
 ### 2. Install Sideloadly
 Download and install **Sideloadly** from the official website.
 
-- [Download Sideloadly](#https://sideloadly.io/#download)
+- [Download Sideloadly](https://sideloadly.io/#download)
 
 ### 3. Download SpooferPro
 Get the latest version of **SpooferPro** for sideloading.
 
-- [Download SpooferPro](#https://spooferpro.com/)
+- [Download SpooferPro](https://spooferpro.com/)
 
 ### 4. Connect Your iOS Device
 - Connect your iPhone or iPad to your computer.
